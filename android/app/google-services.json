@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "637277705345",
+    "firebase_url": "https://kilimo-salama.firebaseio.com",
+    "project_id": "kilimo-salama",
+    "storage_bucket": "kilimo-salama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637277705345:android:f5edcedf8b1fa5d413a980",
+        "android_client_info": {
+          "package_name": "com.example.kilimosalama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637277705345-p137s3k4194d2s3utkucd9l5h0es31vs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kilimosalama",
+            "certificate_hash": "ab2c773db1c20c4e6882e0c15b6512c7f6a609b0"
+          }
+        },
+        {
+          "client_id": "637277705345-jri18enhj2rp6jkjktrg3d0drs6mghup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs8DXOHcJrP51RJJuTorVmQtzn9OuT-6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637277705345-jri18enhj2rp6jkjktrg3d0drs6mghup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
